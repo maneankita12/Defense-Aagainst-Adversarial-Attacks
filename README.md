@@ -43,6 +43,22 @@ This project aims to:
 
 ## Attack Phase
 
+![Alt text](AttackPhase.png)
+
+---
+
+## Defense Phase
+
+![Alt text](DefensePhase.png)
+
+---
+
+## Detailed Phase
+
+![Alt text](DetailedDesign.png)
+
+
+
 
 ## 📊 Results
 - **Adversarial attacks** reduced model accuracy by more than **70%** on certain datasets.  
